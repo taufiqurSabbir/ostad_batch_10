@@ -1,7 +1,7 @@
 main(){
   List<int> numbers = [10,20,40,50,60];
   print(numbers);
-  numbers.add(70); //value add in list
+  numbers.add(70);  //value add in list
   print(numbers);
   numbers.addAll([80,90,100]);
   print(numbers);
