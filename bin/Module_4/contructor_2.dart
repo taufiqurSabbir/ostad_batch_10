@@ -9,12 +9,15 @@ class Human{
 
   Human(){
     print('Human object created');
+    method1();
+    method2();
+
   }
 
 
 
   moving(){
-    print('$name is moving');
+    print('is moving');
 
   }
 
@@ -33,5 +36,11 @@ class Human{
   static sleep(){
     print('human is sleeping');
   }
+
+}
+
+main(){
+  Human Rifat = Human();
+
 
 }
