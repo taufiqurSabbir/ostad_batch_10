@@ -7,9 +7,7 @@ abstract class Animal{
     print("$name is eating");
   }
 
-  speak(){
-    print("$name is speaking");
-  }
+  speak();
 }
 
 
