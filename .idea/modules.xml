@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ostad_flutter_batch_10.iml" filepath="$PROJECT_DIR$/ostad_flutter_batch_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ostad_batch_10.iml" filepath="$PROJECT_DIR$/ostad_batch_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/ostad_batch_10_android.iml" filepath="$PROJECT_DIR$/android/ostad_batch_10_android.iml" />
     </modules>
   </component>
 </project>
